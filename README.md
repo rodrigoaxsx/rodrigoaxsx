@@ -14,17 +14,17 @@
   </div>
 
 <div class="skills-grid top-row">
-  <div class="skill-card" texxt-align: center; display: flex; justify-content: center; >
+  <div class="skill-card" texxt-align: center; display: flex; justify-content: center; gap: 22px; margin-top: 25px; >
+
+.skill-card {
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 22px;
+  margin-top: 25px;
+}
  <h3>CSS</h3>
 <img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/CSS_logo-1-726x1024.png" alt=icone width="65" height="65">
     <h3>CSS</h3>
 <span>Intermediario</span>
   </div>
-
-
-.skill-card:hover {
-  transform: translateY(-5px);
-  background: rgba(255,255,255,0.12);
-}
-  
-
