@@ -12,9 +12,9 @@
 <span>Intermediario</span>
 
 <div class="skills-grid top-row">
-  <div class="skill-card" texxt-align: center; display: flex; justify-content: center; gap: 22px; margin-top: 25px; >
+  <div class="skill-card">
  <h3>CSS</h3>
-<img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/CSS_logo-1-726x1024.png" alt=icone width="65" height="65">
+<img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/CSS_logo-1-726x1024.png" alt=icone width="80" height="80">
     <h3>CSS</h3>
 <span>Intermediario</span>
   </div>
