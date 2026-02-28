@@ -19,7 +19,7 @@
 
 <div class="skills-grid top-row">
 <div class="skill-card">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmaiTZYxnDIOPzKne53fMFyeR3c-7nX4gPQ&s" alt=icone width="80" height="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png" alt=icone width="80" height="80">
 <h3>Javascript</h3>
 <span>Iniciante</span>
 </div>
