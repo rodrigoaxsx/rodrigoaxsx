@@ -7,7 +7,7 @@
 
 <div class="skills-grid top-row">
   <div class="skill-card">
-<img src="https://spng.pngfind.com/pngs/s/683-6834213_transparent-html-logo-png-png-download.png" alt=icone width="80" height="80">
+<img src=https://images.icon-icons.com/112/PNG/512/html5_18891.png" alt=icone width="80" height="80">
     <h3>HTML</h3>
 <span>Intermediario</span>
 
