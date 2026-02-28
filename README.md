@@ -11,7 +11,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" alt=icone width="80" height="80">
     <h3>HTML</h3>
 <span>Intermediario</span>
-  </div>
 
 <div class="skills-grid top-row">
   <div class="skill-card" texxt-align: center; display: flex; justify-content: center; gap: 22px; margin-top: 25px; >
