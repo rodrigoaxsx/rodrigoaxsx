@@ -5,7 +5,6 @@
 <section class="skills">
 <h2>Linguagens que domino</h2>
 
-
 <div class="skills-grid top-row">
   <div class="skill-card">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" alt=icone width="80" height="80">
