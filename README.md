@@ -14,7 +14,7 @@
 <div class="skills-grid top-row">
   <div class="skill-card">
  <h3>CSS</h3>
-<img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/CSS_logo-1-726x1024.png" alt=icone width="80" height="80">
+<img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/CSS_logo-1-726x1024.png" alt=icone width="40" height="40">
     <h3>CSS</h3>
 <span>Intermediario</span>
   </div>
