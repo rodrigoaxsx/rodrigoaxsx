@@ -3,7 +3,7 @@
 # Olá pessoal, sou o Rodrigo estudo programação por hobby, mas busco aprimorar meus conhecimentos como desenvolveor front-end
 
 <section class="skills">
-<h2>Linguagens que domino</h2>
+<h2>Linguagens que domino (linguagens de estilo, estrutura e programação)</h2>
 
 <div class="skills-grid top-row">
   <div class="skill-card">
