@@ -2,12 +2,21 @@
 
 # Olá pessoal, sou o Rodrigo estudo programação por hobby, mas busco aprimorar meus conhecimentos como desenvolveor front-end
 
-# Aqui vai as linguagens que eu dominio:
+<section class="skills">
+<h2>Linguagens que domino</h2>
 
-<h3>HTML</h3>
+<div class="skills-grid top-row">
+  <div class="skill-card">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" alt=icone width="80" height="80">
-<p>Intermediario</p>
+    <h3>HTML</h3>
+<span>Intermediario</span>
+  </div>
 
+<div class="skills-grid top-row">
+  <div class="skill-card">
 <h3>CSS</h3>
-<img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/CSS_logo-1-726x1024.png" alt=icone width="80" height="80">
-<p>Intermediario</p>
+<img src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/CSS_logo-1-726x1024.png" alt=icone width="65" height="65">
+    <h3>CSS</h3>
+<span>Intermediario</span>
+  </div>
+
