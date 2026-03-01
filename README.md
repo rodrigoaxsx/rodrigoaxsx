@@ -2,8 +2,6 @@
 
 # Olá pessoal, sou o Rodrigo estudo programação por hobby, mas busco aprimorar meus conhecimentos como desenvolveor front-end
 
-## 🚀 Habilidades
-
 ### Languages
 ## 🚀 Linguagens que domino
 
