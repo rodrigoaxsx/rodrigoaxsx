@@ -1,6 +1,6 @@
 ## Sobre mim
 
-# Olá pessoal, sou o Rodrigo estudo programação por hobby, mas busco aprimorar meus conhecimentos como desenvolveor front-end
+# Olá pessoal, sou o Rodrigo estudo programação por hobby, mas busco aprimorar meus conhecimentos como desenvolveor front-end, em breve vou começar a postar meus projetos open-source.
 
 ### 🚀 Linguagens que domino
 
